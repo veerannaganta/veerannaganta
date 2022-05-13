@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 Recently, I have completed my post-graduation on Business Adminstration in Business Analytics from University of Hyderabad.
+- 🌱 I’m currently looking for job oppurtunities.
+- 💞️ I’m looking to collaborate on GIT HUB to develop my skills.
+- 💪 I have skills on programming language - Python
+- 💪 I have skills on visualization tools - Tableau, Advanced Excel
+- 🌱 I am currently learning - Power BI
+- 📫 How to reach me on gantaveeranna2009@gmail.com
